@@ -15,4 +15,10 @@ public class APITest {
   {
 	  System.out.println("myBranch");
   }
+  
+  public void myAPI()
+  {
+	  System.out.println("This is to test branching more");
+  }
+  
 }
