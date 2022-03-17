@@ -6,6 +6,6 @@ public class APITest {
   @Test
   public void firstAPI() 
   {
-	  System.out.println("First API");
+	  System.out.println("This is not an API Test");
   }
 }
