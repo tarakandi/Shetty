@@ -7,5 +7,6 @@ public class APITest {
   public void firstAPI() 
   {
 	  System.out.println("This is not an API Test");
+	  System.out.println("Test out pull request from cmd");
   }
 }
