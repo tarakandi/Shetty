@@ -25,8 +25,6 @@ public class Demo
 		Thread.sleep(4000);
 		System.out.println(driver.findElement(By.xpath("//div[contains(text(),'No Search Results')]")).isDisplayed());
 		
-		//This is a change
-		System.out.println("My name is Omar");
 		driver.close();
 		
 		
