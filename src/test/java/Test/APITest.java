@@ -10,4 +10,9 @@ public class APITest {
 	  System.out.println("Test out pull request from cmd");
 	  System.out.println("Switch to master branch");
   }
+  
+  public void secondAPI()
+  {
+	  System.out.println("myBranch");
+  }
 }
