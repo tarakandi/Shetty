@@ -21,4 +21,9 @@ public class APITest {
 	  System.out.println("This is to test branching more");
   }
   
+  public void methodForEsha()
+  {
+	  System.out.println("A demo for Esha");
+  }
+  
 }
